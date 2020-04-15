@@ -1,13 +1,3 @@
-// http://puzzle.mead.io/puzzle
-// console.log("Client side javaScritpt");
-// const url = "http://puzzle.mead.io/puzzle";
-
-// fetch(url).then((response) => {
-//   response.json().then((data) => {
-//     console.log(data);
-//   });
-// });
-
 // Weather form
 const weatherForm = document.querySelector("form");
 const search = document.querySelector("input");
